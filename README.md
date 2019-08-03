@@ -11,13 +11,11 @@ Koala SCSS - http://koala-app.com/
 
 # Database Software
 
-Oracle - https://www.oracle.com/index.html 
-<br/>
-PostgreSQL - https://www.postgresql.org/ 
-<br/> 
-MySQL - https://www.mysql.com/ <br/> 
+Oracle - https://www.oracle.com/index.html <br/>
+PostgreSQL - https://www.postgresql.org/ <br/>
+MySQL - https://www.mysql.com/ <br/>
 PHPmyAdmin - https://www.phpmyadmin.net/
- <br/> <br/>
+<br/> <br/>
 MariaDB - https://mariadb.org/ <br/>
 MongoDB - https://www.mongodb.com/ <br/>
 Firebase - https://firebase.google.com/
